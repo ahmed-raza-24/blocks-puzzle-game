@@ -52,9 +52,9 @@ Works fully offline
 Beginner-friendly JavaScript project
 
 📷 Preview
-1. <img width="1919" height="945" alt="startgame" src="https://github.com/user-attachments/assets/7aee9dfc-29cd-4d70-845e-22441ea7a263" />
-2. <img width="1919" height="944" alt="blocks-board" src="https://github.com/user-attachments/assets/55336334-64c8-40e6-8c3b-b9ca125cb28d" />
-3.<img width="1920" height="941" alt="game over- restart" src="https://github.com/user-attachments/assets/2271b9c1-dc01-4d13-9331-f014aada47e4" />
+1. Start Game  <img width="1919" height="945" alt="startgame" src="https://github.com/user-attachments/assets/7aee9dfc-29cd-4d70-845e-22441ea7a263" />
+2. Blocks Board <img width="1919" height="944" alt="blocks-board" src="https://github.com/user-attachments/assets/55336334-64c8-40e6-8c3b-b9ca125cb28d" />
+3. Game Over <img width="1920" height="941" alt="game over- restart" src="https://github.com/user-attachments/assets/2271b9c1-dc01-4d13-9331-f014aada47e4" />
 
 
 
